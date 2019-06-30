@@ -1,0 +1,51 @@
+h1{
+  color: black;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #00AAFF;
+}
+p{
+  color: purple;
+}
+body{
+  background-color: white;
+}
+#lead-paragraph:hover {
+  color:black;
+  font-weight: bold;
+  background-color: #00DDFF;
+}
+.professional-profile:hover {
+  background-color: #00DDFF;
+}
+.Top:hover {
+  background-color: hsl(52,89%,38%)
+}
+.Middle:hover{
+  background-color: #BFBFBF
+}
+.Bottom:hover{
+  background-color: rgb(148,68,13)
+}
+.article:hover{
+  background-color: hsl(20,100%,70%)
+}
+a[href="https://www.linkedin.com/in/dallen-t-329b6a123"] {
+  background-color: #e6e6e6;
+  padding: 0.1rem;
+}
+a[href="https://www.solwininfotech.com/blog/website-design/web-development-trends/"] {
+  background-color: #e6e6e6;
+  padding: 0.2rem;
+}
+.signature{
+  color: black;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #00AAFF;
+}
+.Contact-information{
+  border-style: solid;
+  border-width: 2px;
+  border-color: #00AAFF;
+}
